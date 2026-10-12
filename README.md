@@ -46,6 +46,7 @@ A showcase of production-ready SaaS platforms, autonomous engines, and developer
 | **🔍 OmniExtract Pro** | **RapidAPI High-Speed Web Data Engine**<br/>Production data extraction microservice, proxy rotation, and automated structured JSON parsing. | `JavaScript` `RapidAPI` `Node.js` `Cheerio` | 🌐 [Live Web App](https://omniextract-rapidapi-engine.vercel.app)<br/>📂 [GitHub Repo](https://github.com/harshitpratap1113-glitch/omniextract-platform) |
 | **🎯 FocusLock** | **Deep-Work & Productivity Controller**<br/>Distraction-free focus workflow suite with session timer, task locker, and state persistence. | `HTML5` `Modern JS` `Local Storage` `CSS3` | 🌐 [Live PWA](https://harshitpratap1113-glitch.github.io/focus-lock/)<br/>📂 [GitHub Repo](https://github.com/harshitpratap1113-glitch/focus-lock) |
 | **🤖 OmniFlow AI** | **Autonomous Task & Agent Orchestrator**<br/>Multi-agent task sequencing, dynamic tool calling, and resilient background workflow pipelines. | `Python` `AI Agents` `FastAPI` `Automation` | 📂 [GitHub Repo](https://github.com/harshitpratap1113-glitch/omniflow-ai) |
+| **💀 ToxicSeniorDev** | **Sarcastic Code Roaster & Secret Bug Fixer**<br/>50% brutal meme roaster with 4 personas • 50% real production refactor & bug patcher. | `Tailwind` `WebAudio` `Python CLI` `AST Regex` | 📂 [GitHub Repo](https://github.com/harshitpratap1113-glitch/toxic-senior-dev) |
 
 ---
 
